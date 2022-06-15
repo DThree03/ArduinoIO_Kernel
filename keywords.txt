@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For IO-Kernel
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+IO-Kernel	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+basicOutput	KEYWORD2
+latchRelay	KEYWORD2
+inputSwitch	KEYWORD2
+inputButton	KEYWORD2
+init	KEYWORD2
+config	KEYWORD2
+outputTask	KEYWORD2
+inputTask	KEYWORD2
+status	KEYWORD2
+isNewStateSW	KEYWORD2
+buttonState	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ACTIVE_LOW	LITERAL1
+ACTIVE_HIGH	LITERAL1
+eButtonSingleClick	LITERAL1
+eButtonDoubleClick	LITERAL1
+eButtonTripleClick	LITERAL1
+eButtonLongPressT1	LITERAL1
+eButtonLongPressT2	LITERAL1
